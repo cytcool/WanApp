@@ -33,5 +33,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     implementation 'com.squareup.okhttp3:okhttp:3.10.0'
-    compile 'io.realm:realm-android-library:1.2.0'
+    implementation 'io.realm:realm-android-library:1.2.0'
+    implementation 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
 }
